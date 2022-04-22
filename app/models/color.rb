@@ -1,3 +1,3 @@
 class Color < ApplicationRecord
-  belongs_to :car
+  has_and_belongs_to_many :cars
 end
