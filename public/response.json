@@ -1,0 +1,78 @@
+[
+    {
+       "id":"24uobf24jlgb",
+       "make":"Tesla",
+       "model":"X",
+       "range":{
+          "unit":"km",
+          "distance":"450"
+       },
+       "colors":[
+          "red",
+          "black"
+       ],
+       "price":"110000 EUR",
+       "photo":"https://car.com/car.jpg"
+    },
+    {
+       "id":"2ejvb2rouvb",
+       "make":"Tesla",
+       "model":"X",
+       "range":{
+          "unit":"km",
+          "distance":"420"
+       },
+       "colors":[
+          "blue",
+          "black"
+       ],
+       "price":"98000 EUR",
+       "photo":"https://car.com/car2.jpg"
+    },
+    {
+       "id":"8wbvwb0f8b",
+       "make":"Mercedes Benz",
+       "model":"EQC",
+       "range":{
+          "unit":"km",
+          "distance":"450"
+       },
+       "colors":[
+          "red",
+          "gray"
+       ],
+       "price":"79000 EUR",
+       "photo":"https://car.com/car3.jpg"
+    },
+    {
+       "id":"89webvqbvq",
+       "make":"Mercedes Benz",
+       "model":"EQS",
+       "range":{
+          "unit":"km",
+          "distance":"470"
+       },
+       "colors":[
+          "red",
+          "gray",
+          "green"
+       ],
+       "price":"122000 EUR",
+       "photo":"https://car.com/car4.jpg"
+    },
+    {
+       "id":"56vhjbvqkbq",
+       "make":"Audi",
+       "model":"ETron",
+       "range":{
+          "unit":"km",
+          "distance":"390"
+       },
+       "colors":[
+          "black",
+          "gray"
+       ],
+       "price":"88000 EUR",
+       "photo":"https://car.com/car6.jpg"
+    }
+ ]
